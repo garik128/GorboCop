@@ -1,0 +1,33 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Сборка PyInstaller
+build/
+dist/
+*.manifest
+
+# Пользовательские данные (создаются при запуске)
+config.json
+history.json
+
+# IDE / инструменты
+.vscode/
+.idea/
+.claude/
+
+# Внутренние заметки
+tz.md
+CLAUDE.md
+LINUX_PORT.md
+
+# ОС
+Thumbs.db
+desktop.ini

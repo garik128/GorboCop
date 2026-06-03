@@ -1,0 +1,7 @@
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+customtkinter==5.2.2
+pillow==11.1.0
+windows-toasts==1.3.1
+pygame==2.6.1
+pywin32==308
